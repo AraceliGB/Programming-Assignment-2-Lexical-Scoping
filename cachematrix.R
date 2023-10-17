@@ -42,6 +42,6 @@ cacheSolve <- function(x, ...) {
   
   x$setinverse(inv)
   
-  i
+  inv
         
 }
